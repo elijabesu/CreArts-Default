@@ -13,4 +13,3 @@ The theme can be used for Powercord and as web a version.
 
 ## Instalation
 Coming Soon
-
