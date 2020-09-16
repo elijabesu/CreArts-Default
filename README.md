@@ -7,15 +7,10 @@ The theme can be used for Powercord and as web a version.
 
 ![Preview](https://i.imgur.com/XJ1uDoR.png)
 
-## Editions
+## Preview
 
-### Default
 ![Default](https://i.imgur.com/aK8k32J.png)
 
 ## Instalation
 Coming Soon
-
-### Powercord
-
-### Web
 
