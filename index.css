@@ -129,7 +129,7 @@
 /*||| Version ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-    --version: "v1.2.1 (Beta)"; /*Theme Version*/
+    --version: "v1.2.1 (Beta) (Default Edition)"; /*Theme Version*/
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Font |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -142,24 +142,24 @@
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
 /* Accent */
-    --Color001: #CD0952  ;
-    --Color010: #27D8A1  ;
+    --Color001: #CD0952;
+    --Color010: #27D8A1;
 
 /* Background */
-    --Color002: #3D4351  ;
-    --Color003: #303440  ;
-    --Color004: #2C303A  ;
-    --Color005: #252830  ;
+    --Color002: #3D4351;
+    --Color003: #303440;
+    --Color004: #2C303A;
+    --Color005: #252830;
     
 /* Text */	
-    --Color006: #FFFFFF  ;
-    --Color007: #C8CDDB  ;
-    --Color008: #989FB1  ;
-    --Color009: #6C7180  ;
+    --Color006: #FFFFFF;
+    --Color007: #C8CDDB;
+    --Color008: #989FB1;
+    --Color009: #6C7180;
 
 /* Shadow */
 
-    --Color011: #00000040  ;
+    --Color011: #00000040;
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Blurple Recolor ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -177,12 +177,12 @@
     --titlebar-button-width: 48px;
     --titlebar-font-size: 12px;
     --titlebar-icon-font-size: 12px;
-    --titlebar-background-color:var(--Color005);
-    --titlebar-text-color:var(--Color008);
-    --titlebar-button-hover:var(--Color003);
-    --titlebar-button-active:var(--Color003);
-    --titlebar-close-button-hover:var(--Color001);
-    --titlebar-close-button-active:var(--Color001);
+    --titlebar-background-color: var(--Color005);
+    --titlebar-text-color: var(--Color007);
+    --titlebar-button-hover: var(--Color003);
+    --titlebar-button-active: var(--Color003);
+    --titlebar-close-button-hover: var(--Color001);
+    --titlebar-close-button-active: var(--Color001);
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Mobile Home Button |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
