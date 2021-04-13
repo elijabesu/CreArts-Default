@@ -145,8 +145,7 @@
     --font: 'Oxygen';
 
 /* Accent */
-    --Color001: #FFA0BA; /* #ffa0ba */
-    --Color010: #A0FFE5; /* #a0ffe5 */
+    --Color001: #E3ABCE; /* #e3abce */
 
 /* Background */
     --Color002: #3D4351;
@@ -163,7 +162,7 @@
 
 /* Mention */
 
-    --Mention:  255,160,186; /* #ffa0ba */
+    --Mention:  227, 171, 206; /* #e3abce */
 
 /* Shadow */
 
@@ -186,8 +185,8 @@
 /*||| Blurple Recolor ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 
-    --accentcolor: 255,160,186; /* #ffa0ba */
-    --linkcolor: 255,160,186; /* #ffa0ba */
+    --accentcolor: 227, 171, 206; /* #e3abce */
+    --linkcolor: 227, 171, 206; /* #e3abce */
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
 /*||| Audioviz |||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -429,7 +428,7 @@
 
 /* Two-Factor Text */
 .userSettingsSecurity-3IYeMF .isEnabled-24g9qA {
-    color: var(--Color010);
+    color: var(--Color001);
 }
 
 /*||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||*/
@@ -1205,9 +1204,9 @@
 
 /* Update Icon */
 
-.updateIconForeground-3tnNZn {fill: var(--Color010)}
-.updateIconForeground-3tnNZn:hover {fill: var(--Color010)}
-.updateIconForeground-3tnNZn:active {fill: var(--Color010)}
+.updateIconForeground-3tnNZn {fill: var(--Color001)}
+.updateIconForeground-3tnNZn:hover {fill: var(--Color001)}
+.updateIconForeground-3tnNZn:active {fill: var(--Color001)}
 
 /* Searchbar */
 
